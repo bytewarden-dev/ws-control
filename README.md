@@ -12,3 +12,5 @@ WS2812b Controller Strip LED.
 
 - Refactor code
 - Cleanup code
+- shields.io - using
+  https://shields.io/
