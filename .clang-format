@@ -1,6 +1,6 @@
 # Based on LLVM style
 Language: Cpp
-BasedOnStyle: LLVM
+BasedOnStyle: Google
 
 # Indentation and Line Width
 IndentWidth: 4
