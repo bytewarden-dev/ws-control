@@ -2,12 +2,12 @@
 #define __AUTOVERSION_HPP__
 
 /// Firmware version numbers
-#define FIRMWARE_MAJOR_VERSION 2
-#define FIRMWARE_MINOR_VERSION 9
-#define FIRMWARE_PATCH_VERSION 2991
+#define FIRMWARE_VERSION_MAJOR 2
+#define FIRMWARE_VERSION_MINOR 9
+#define FIRMWARE_VERSION_PATCH 2991
 
 /// Firmware version string
-#define FIRMWARE_VERSION "2.9.1991"
+#define FIRMWARE_VERSION       "2.9.1991"
 
 
 
