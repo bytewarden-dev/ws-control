@@ -1,0 +1,34 @@
+# Based on LLVM style
+Language: Cpp
+BasedOnStyle: LLVM
+
+# Indentation and Line Width
+IndentWidth: 4
+ColumnLimit: 100
+TabWidth: 4
+UseTab: Never
+
+# Braces and Layout
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterClass: false
+  AfterControlStatement: Never
+  AfterFunction: false
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false
+  BeforeCatch: false
+  BeforeElse: false
+  IndentBraces: false
+
+# Alignment and Spacing
+AlignAfterOpenBracket: Align
+AlignOperands: true
+PointerAlignment: Left  # e.g., int* p; (Modern C++ style)
+SpaceAfterCStyleCast: false
+SpaceBeforeParens: ControlStatements
+
+# Miscellaneous
+AllowShortFunctionsOnASingleLine: Empty
+FixNamespaceComments: true
+SortIncludes: true
