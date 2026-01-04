@@ -40,10 +40,13 @@
 # debug information files
 *.dwo
 
-*-dev
-
 # Platform IO
-.pio/build/
-.pio/libdeps/
+.pio
 .vscode/c_cpp_properties.json
 .vscode/launch.json
+
+
+
+*-dev
+*.dist
+*.env
